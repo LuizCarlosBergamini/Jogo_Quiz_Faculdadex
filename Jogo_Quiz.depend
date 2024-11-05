@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1730787014 source:c:\users\carlo\onedrive\Área de trabalho\jogo_quiz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+
